@@ -13,3 +13,7 @@ $ go run server/main.go
 ## Open another terminal to start client
 $ go build client/main.go
 $ go run client/main.go
+
+
+## For more details, please refer the official documentation
+https://grpc.io/docs/guides/
